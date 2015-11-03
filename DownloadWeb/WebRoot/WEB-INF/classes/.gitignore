@@ -1,0 +1,10 @@
+/actionContext.xml
+/applicationContext.xml
+/beanContext.xml
+/config.properties
+/daoContext.xml
+/errorCode.properties
+/hibernate.cfg.xml
+/me
+/serviceContext.xml
+/struts.xml
