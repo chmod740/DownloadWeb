@@ -19,6 +19,7 @@
 			<attribute name="owner.project.facets" value="jst.web.jstl"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="lib/asm-3.3.jar"/>
 	<classpathentry kind="lib" path="lib/asm-commons-3.3.jar"/>
 	<classpathentry kind="lib" path="lib/asm-tree-3.3.jar"/>
@@ -101,6 +102,7 @@
 	<classpathentry kind="lib" path="lib/struts2-junit-plugin-2.3.24.jar"/>
 	<classpathentry kind="lib" path="lib/struts2-spring-plugin-2.3.24.jar"/>
 	<classpathentry kind="lib" path="lib/xwork-core-2.3.24.jar"/>
+	<classpathentry kind="lib" path="lib/jna-4.2.1.jar"/>
 	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.hibernate_4.1">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="WEB-INF/lib"/>

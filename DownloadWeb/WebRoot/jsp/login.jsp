@@ -25,7 +25,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
   	<s:form action="login.action">
-  		<s:token name="key123"></s:token>
+  		<s:token name="token"></s:token>
   		<s:fielderror name="errorInfo"></s:fielderror>
   		<s:textfield name="username" key="user"></s:textfield>
   		<s:textfield name="password" key="pass"></s:textfield>
